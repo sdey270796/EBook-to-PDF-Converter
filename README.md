@@ -85,8 +85,10 @@ After successful conversion, the application displays:
 
 ```
 .
-├── Ebook_to_PDF_Converter.ipynb          # Version 1.0
-├── EBook_to_PDF_Converter_V2_0.ipynb     # Version 2.0
+├── Ebook_to_PDF_Converter.ipynb                      # Version 1.0
+├── EBook_to_PDF_Converter_V2_0.ipynb                 # Version 2.0
+├── EBook_to_PDF_Converter_V2_0_with_Gradio.ipyn      # Version 2.0 with Gradio interface
+├── Screenshot of Gradio interface
 └── README.md
 ```
 
